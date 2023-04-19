@@ -27,7 +27,7 @@ export default function Home() {
         <div className="px-4 py-6 sm:px-0">
           <h2 className="text-xl font-semibold mb-4">About Me</h2>
           <p>
-            Welcome to my portfolio page, my name is Thomas Nicholson. I'm a 25 year old web developer.
+            Welcome to my portfolio page, my name is Thomas Nicholson. I'm a 27 year old web developer.
             My interests include health, nutrition, education, business and politics.
             Currently I'm finalising my web development course and working on two big exciting projects
             Check out my portfolio, contact me, or peruse the links at the bottom.
